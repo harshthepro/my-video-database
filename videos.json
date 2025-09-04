@@ -1,5 +1,9 @@
 {
   "videos": {
-    "test_video_001": "https://t.me/c/2915319052/2"
+    "test_video_001": "https://raw.githubusercontent.com/harshthepro/my-video-database/refs/heads/main/videos.json",
+    "test_video_002": "https://raw.githubusercontent.com/harshthepro/my-video-database/refs/heads/main/videos.json",
+    "test_video_003": "https://raw.githubusercontent.com/harshthepro/my-video-database/refs/heads/main/videos.json",
+    "test_video_004": "https://raw.githubusercontent.com/harshthepro/my-video-database/refs/heads/main/videos.json",
+    "test_video_005": "https://raw.githubusercontent.com/harshthepro/my-video-database/refs/heads/main/videos.json"
   }
 }
