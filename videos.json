@@ -1,9 +1,8 @@
 {
   "videos": {
-    "test_video_001": "https://raw.githubusercontent.com/harshthepro/my-video-database/refs/heads/main/videos.json",
-    "test_video_002": "https://raw.githubusercontent.com/harshthepro/my-video-database/refs/heads/main/videos.json",
-    "test_video_003": "https://raw.githubusercontent.com/harshthepro/my-video-database/refs/heads/main/videos.json",
-    "test_video_004": "https://raw.githubusercontent.com/harshthepro/my-video-database/refs/heads/main/videos.json",
-    "test_video_005": "https://raw.githubusercontent.com/harshthepro/my-video-database/refs/heads/main/videos.json"
+    "big_boss_season_19_ep_09": "https://t.me/c/2915319052/5",
+    "big_boss_season_19_ep_10": "https://t.me/c/2915319052/6",
+    "big_boss_season_19_ep_11": "https://t.me/c/2915319052/7",
+    "big_boss_season_19_ep_12": "https://t.me/c/2915319052/8"
   }
 }
